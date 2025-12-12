@@ -16,21 +16,22 @@ h1{
 }
 
 h2{
-
-
-
-
-
-
+   color: #ffff00;
+   font-size: 1.9em;
+   bakground-color: #fffafa;
+   paddibg: 14px;
+   border-left: 6px wavy #708090;
+   margin-top: 27px;
 }
 
 p{
-
-
+  font-size:  1.4rem;
+  margin-bottom: 17px;
 }
 
 footer{
-    
-    
-    
+       margin-top: 54px;
+       text-align: center;
+       color: #dc143c;
+       font-size: 0.6px;
 }
